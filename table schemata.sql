@@ -1,5 +1,3 @@
-# sql-challenge
-# Table Scripts:
 -- Table: public.departments
 
 -- DROP TABLE IF EXISTS public.departments;
